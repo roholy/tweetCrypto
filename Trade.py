@@ -2,6 +2,8 @@ import shrimpy
 import plotly.graph_objects as go
 from config import publicKey, secretKey
 
+#https://morioh.com/p/665bb1d42d40
+
 # insert your public and secret keys here Shrimpy
 
 public_key = publicKey
