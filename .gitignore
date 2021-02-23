@@ -1,6 +1,8 @@
 #added by me
 config
 config.py
+.vscode
+__pycache__
 
 
 
