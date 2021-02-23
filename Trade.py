@@ -3,7 +3,7 @@ import plotly.graph_objects as go
 from config import publicKey, secretKey
 
 #https://morioh.com/p/665bb1d42d40
-#to use vs code github just commit then type git push in command line
+#to use vs code github just commit then type git push in command line.
 
 # insert your public and secret keys here Shrimpy
 
