@@ -1,0 +1,4 @@
+install python
+
+install TA-Lib # this library can analyze the candle stick charts
+https://github.com/mrjbq7/ta-lib/blob/master/docs/install.md

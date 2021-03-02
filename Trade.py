@@ -67,9 +67,7 @@ def graph(ticker_symbol):
         'kucoin',  # exchange
         ticker_symbol,      # base_trading_symbol
         'usdc',      # quote_trading_symbol
-        '1m'       # interval
-        '2020-09-15T01:00:00.000Z',
-        '2020-09-16T01:00:00.000Z',
+        '1m',       # interval
     )
 
 
