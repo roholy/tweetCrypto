@@ -1,0 +1,14 @@
+shrimpy api instrucions
+https://developers.shrimpy.io/docs/#exchange-order-book
+
+talib github repo
+https://github.com/mrjbq7/ta-lib
+
+here is the artivle this program structure is based on
+https://morioh.com/p/665bb1d42d40
+
+learn how to plot candlesticks
+https://plotly.com/python/candlestick-charts/
+
+analyze 50 candlestick patterns article
+https://medium.com/analytics-vidhya/recognizing-over-50-candlestick-patterns-with-python-4f02a1822cb5
