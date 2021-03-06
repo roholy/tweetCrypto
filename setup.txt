@@ -1,5 +1,6 @@
 install python
 install anaconda
+pip install shrimpy-python
 
 install c++
 install c++ compiler
