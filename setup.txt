@@ -1,8 +1,10 @@
 install python
+install anaconda
 
 install c++
 install c++ compiler
 https://code.visualstudio.com/docs/languages/cpp
+probably didnt need to install c++
 
 install TA-Lib # this library can analyze the candle stick charts
 https://github.com/mrjbq7/ta-lib/blob/master/docs/install.md

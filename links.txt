@@ -12,3 +12,6 @@ https://plotly.com/python/candlestick-charts/
 
 analyze 50 candlestick patterns article
 https://medium.com/analytics-vidhya/recognizing-over-50-candlestick-patterns-with-python-4f02a1822cb5
+
+anaconda to download ta lib
+https://blog.quantinsti.com/install-ta-lib-python/
